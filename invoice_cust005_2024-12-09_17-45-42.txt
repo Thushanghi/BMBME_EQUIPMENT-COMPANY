@@ -1,0 +1,18 @@
+
+    --- Invoice ---
+    Date: 2024-12-09 17:45:42
+    Customer: Charles Ronald
+    Email: charlesronald44@gmail.com
+    Phone: 9923124544
+
+    Item Purchased:
+    ID: 1
+    Name: Blood Glucose Monitor
+    Quantity: 3
+    Price per Unit: 3000.00
+    Total Price: 3000.003000.003000.00
+
+    Thank you for your purchase!
+
+    E-TEC BME System
+    

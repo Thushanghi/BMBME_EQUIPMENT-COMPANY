@@ -1,0 +1,44 @@
+[
+    {
+        "customerid": "id001",
+        "firstname": "Max",
+        "lastname": "Steel",
+        "phonenumber": "9756786578",
+        "emailaddress": "maxsteel@gmail.com"
+    },
+    {
+        "customerid": "id002",
+        "firstname": "elle",
+        "lastname": "manual",
+        "phonenumber": "6478923456",
+        "emailaddress": "elle.manual@gmail.com"
+    },
+    {
+        "customerid": "id003",
+        "firstname": "Charles",
+        "lastname": "Ronald",
+        "phonenumber": "9923124544",
+        "emailaddress": "charlesronald44@gmail.com"
+    },
+    {
+        "customerid": "id004",
+        "firstname": "Nick",
+        "lastname": "Thomas",
+        "phonenumber": "9923124588",
+        "emailaddress": "nickthomas88@gmail.com"
+    },
+    {
+        "customerid": "cust005",
+        "firstname": "Max",
+        "lastname": "Steel",
+        "phonenumber": "9756786578",
+        "emailaddress": "maxsteel@gmail.com"
+    },
+    {
+        "customerid": "cust006",
+        "firstname": "Max",
+        "lastname": "Steel",
+        "phonenumber": "9756786578",
+        "emailaddress": "maxsteel@gmail.com"
+    }
+]

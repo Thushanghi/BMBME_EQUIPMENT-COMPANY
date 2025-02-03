@@ -1,0 +1,44 @@
+[
+    {
+        "item_id": "1",
+        "name": "Blood Glucose Monitor",
+        "description": "Device for measuring blood glucose levels.",
+        "price": "3000.00",
+        "stock": "150"
+    },
+    {
+        "item_id": "2",
+        "name": "Electrocardiogram (ECG)",
+        "description": "Used to measure the electrical activity of the heart.",
+        "price": "16000.00",
+        "stock": "30"
+    },
+    {
+        "item_id": "3",
+        "name": "Infusion Pump",
+        "description": "A medical device used to deliver fluids, medications, or nutrients into a patient's body in a controlled manner.",
+        "price": "4500.00",
+        "stock": "50"
+    },
+    {
+        "item_id": "4",
+        "name": "MRI",
+        "description": "Uses powerful magnetic fields and radio waves to generate detailed images of organs and tissues inside the body.",
+        "price": "35000.00",
+        "stock": "72"
+    },
+    {
+        "item_id": "5",
+        "name": "patient monitor",
+        "description": "A patient monitor is a medical device used to continuously track a patient's vital signs, such as heart rate, blood pressure, oxygen levels, and temperature. It helps healthcare professionals monitor the patient's condition and respond quickly to any changes.",
+        "price": "55000",
+        "stock": "30"
+    },
+    {
+        "item_id": "89dd52f6-c85e-403d-9463-5a523dc5dfe7",
+        "name": "Infant Incubator",
+        "description": "A controlled environment unit designed to provide temperature and humidity regulation for premature or ill newborns to support their development and health.",
+        "price": "6000",
+        "stock": "22"
+    }
+]

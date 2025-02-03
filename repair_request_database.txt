@@ -1,0 +1,38 @@
+[
+    {
+        "repair_id": "rep001",
+        "customerid": "id001",
+        "item_id": "4",
+        "issue_description": "not starting",
+        "status": "Pending",
+        "repair_date": "2024-12-10",
+        "pickup_time": "2024-12-15"
+    },
+    {
+        "repair_id": "rep002",
+        "customerid": "id002",
+        "item_id": "1",
+        "issue_description": "Screen is unresponsive",
+        "status": "Pending",
+        "repair_date": "2024-12-10",
+        "pickup_time": "2024-12-14"
+    },
+    {
+        "repair_id": "rep003",
+        "customerid": "id003",
+        "item_id": "3",
+        "issue_description": "Buttons not functioning properly",
+        "status": "Pending",
+        "repair_date": "2024-12-10",
+        "pickup_time": "2024-12-13"
+    },
+    {
+        "repair_id": "rep004",
+        "customerid": "id003",
+        "item_id": "2",
+        "issue_description": "Device not powering on",
+        "status": "Pending",
+        "repair_date": "2024-12-10",
+        "pickup_time": "2024-12-16"
+    }
+]

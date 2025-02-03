@@ -1,0 +1,22 @@
+
+[
+  {
+   "firstname": "rock",
+   "lastname": "harvid",
+   "phonenumber": "9946758311",
+   "emailaddress": "rockharvid11@gmail.com"
+  },
+  {
+   "firstname": "james",
+   "lastname": "wild",
+   "phonenumber": "9967384732",
+   "emailaddress": "jameswilliam22@gmail.com"
+   },
+  {
+   "firstname": "william",
+   "lastname": "blake",
+   "phonenumber": "9934782633",
+   "emailaddress": "williamblake33@gmail.com"
+   }
+
+]
